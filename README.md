@@ -76,16 +76,26 @@
 		</tr>
 		<tr>
 			<td style="width: 129.283px; text-align: center;">
-				&nbsp;</td>
+				目前會去景點</td>
 			<td>
-				&nbsp;</td>
+				<div>
+					<div>
+						1. 台南四草紅樹林綠色隧道&nbsp;</div>
+					<div>
+						2. 藍晒圖文創園區&nbsp;</div>
+					<div>
+						3. 北門水晶教堂&nbsp;</div>
+					<div>
+						4. 台南‧林百貨&nbsp;</div>
+					<div>
+						5. 奇美博物館</div>
+				</div>
+			</td>
 			<td>
 				&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<p>
-	&nbsp;</p>
 
 
 
