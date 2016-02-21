@@ -76,9 +76,11 @@
 		</tr>
 		<tr>
 			<td style="width: 129.283px; text-align: center;">
-				目前會去景點</td>
+				&nbsp;</td>
 			<td>
 				<div>
+					<div>
+						<span style="text-align: center;">目前會去景點</span></div>
 					<div>
 						1. 台南四草紅樹林綠色隧道&nbsp;</div>
 					<div>
